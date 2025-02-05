@@ -1,4 +1,4 @@
-# KinderMate - AI-Powered Drawing Recognition System
+# kinderDrawing - AI-Powered Drawing Recognition System
 
 ## 📌 Project Overview
 
@@ -22,7 +22,7 @@ KinderDrawing is an **AI-powered drawing recognition system** designed for kids.
 
 ## 🚀 Installation & Setup
 
-Follow these steps to set up KinderMate on your local machine:
+Follow these steps to set up kinderDrawing on your local machine:
 
 ### 1️⃣ Clone the Repository
 

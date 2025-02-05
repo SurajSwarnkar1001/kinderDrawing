@@ -27,8 +27,8 @@ Follow these steps to set up KinderMate on your local machine:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/KinderMate.git
-cd KinderMate
+https://github.com/SurajSwarnkar1001/kinderDrawing.git
+cd KinderDrawing
 ```
 
 ### 2️⃣ Install Dependencies

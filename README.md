@@ -79,7 +79,7 @@ Contributions are welcome! Feel free to fork the repo, create a branch, and subm
 For questions or feedback, reach out to:
 
 - **Developer**: Suraj Swarnkar
-- **Email**: [surajswarnkar839@.email@example.com](mailto\:surajswarnkar839@.email@example.com)
+- **Email**: [surajswarnkar839@email.com](mailto\:surajswarnkar839@email.com)
 - **GitHub**: [SurajSwarnkar1001](https://github.com/SurajSwarnkar1001)
 
 

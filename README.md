@@ -79,7 +79,7 @@ For questions or feedback, reach out to:
 - **Developer**: Suraj Swarnkar
 - **Email**: [surajswarnkar839@email.com](mailto\:surajswarnkar839@email.com)
 - **GitHub**: [SurajSwarnkar1001](https://github.com/SurajSwarnkar1001)
-- **Youtube**: [Demo Video](https://www.youtube.com/watch?v=dS6-UaxeM5U&list=LL)
+- **Demo Video**: [KinderDrawing](https://www.youtube.com/watch?v=dS6-UaxeM5U&list=LL)
 
 
 
